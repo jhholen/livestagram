@@ -22,13 +22,13 @@ $config['instagram_client_name']	= '';
 $config['instagram_description']	= '';
 
 // a quick configuration for the Subscribe controller (required)
-$config['website_callback_url']	= 'http://yoursite.com/livestagram/callback/';
+$config['website_callback_url']	= 'http://insta.dev/';
 
 // these are required
-$config['instagram_client_id']		= '';
-$config['instagram_client_secret']	= '';
-$config['instagram_callback_url']	= 'http://yoursite.com/livestagram/callback/redirect_uri/';
-$config['instagram_website']		= 'http://yoursite.com/livestagram/';
+$config['instagram_client_id']		= 'fa0152480ec64d9d980e782c0e765fee';
+$config['instagram_client_secret']	= '3b568bbb0f5f45f0b7453d4b71032b83';
+$config['instagram_callback_url']	= 'http://insta.dev/';
+$config['instagram_website']		= 'http://insta.dev/';
 
 
 

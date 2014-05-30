@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://yoursite.com/livestagram/';
+$config['base_url']	= 'http://insta.dev/';
 
 /*
 |--------------------------------------------------------------------------

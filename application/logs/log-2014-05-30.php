@@ -1,0 +1,25 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-05-30 12:52:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 12:52:12 --> Query error: No database selected
+ERROR - 2014-05-30 12:52:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 12:52:37 --> Query error: No database selected
+ERROR - 2014-05-30 12:52:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 12:52:38 --> Query error: No database selected
+ERROR - 2014-05-30 12:53:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:19:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:19:17 --> Query error: No database selected
+ERROR - 2014-05-30 13:19:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:19:18 --> Query error: No database selected
+ERROR - 2014-05-30 13:19:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:19:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:19:58 --> Query error: No database selected
+ERROR - 2014-05-30 13:31:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:35:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:35:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:36:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:36:11 --> Query error: No database selected
+ERROR - 2014-05-30 13:37:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:43:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:44:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2014-05-30 13:46:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Users/jhholen/Dropbox/Webutvikling/Insta Live feed/Livestagram/system/database/drivers/mysql/mysql_driver.php 91
